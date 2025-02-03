@@ -20,10 +20,10 @@ class Person {
 void main() {
   // Membuat Objek Person1
   Person person1 = Person('Ahmad An-Najmiyy', 35);
-  person1.tampilkanInfo();  // Cetak: Nama: Ahmad An-Najmiyy, Usia: 25 tahun
+  person1.tampilkanInfo();  // Cetak: Nama: Ahmad An-Najmiyy, Usia: 35 Tahun
 
   // Membuat Objek Person2
   Person person2 = Person('Ubaid Al-Jaabiriyy', 40);
-  person2.tampilkanInfo();  // Cetak: Nama: Ubaid Al-Jaabiriyy, Usia: 30 tahun
+  person2.tampilkanInfo();  // Cetak: Nama: Ubaid Al-Jaabiriyy, Usia: 40 Tahun
 }
 
